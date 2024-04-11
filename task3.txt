@@ -1,4 +1,6 @@
 # To get IP address of particular domain (guvi.in)
 nslookup guvi.in
 
+# To find my CPU/memory usage of my server?
+top
 
