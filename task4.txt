@@ -1,2 +1,3 @@
-hy this is my new repository
-sd
+main is my remote repository
+
+master is my local repository
