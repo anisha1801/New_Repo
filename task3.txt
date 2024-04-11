@@ -1,0 +1,4 @@
+# To get IP address of particular domain (guvi.in)
+nslookup guvi.in
+
+
