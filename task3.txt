@@ -4,3 +4,11 @@ nslookup guvi.in
 # To find my CPU/memory usage of my server?
 top
 
+# To check the connectivity btwn ports
+
+ping guvi.in
+
+# to check port is open or not 
+
+telnet guvi.com 9000
+
